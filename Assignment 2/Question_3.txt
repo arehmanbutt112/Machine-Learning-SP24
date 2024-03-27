@@ -1,1 +1,1 @@
-
+Attempting Q1 and Q2 with decision trees was an experience. I learned a lot about predicting dataset types and car prices. Made a few missteps with parameter tuning, got a bit overwhelmed with all the options, but at the end everything worked out. Seeing the practical side helped me to understand decision trees in more depth. Overall, it was a valuable assignment, which allowed me to get my hands on practical side of machine learning.
